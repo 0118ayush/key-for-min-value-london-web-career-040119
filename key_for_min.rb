@@ -17,6 +17,8 @@ name_hash.collect {|key, val|
     min = val
   end
 }
+lowest_value_key
+end
 
 =======
 
